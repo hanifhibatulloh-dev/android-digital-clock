@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/clock-preview.jpeg" alt="Android Digital Clock Preview" width="900">
+  <img src="screenshots/clock_preview.jpeg" alt="Android Digital Clock Preview" width="900">
 </p>
 
 # Android Digital Clock
